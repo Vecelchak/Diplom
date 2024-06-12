@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<Details name ="Винт">
+		<Format>A4</Format>
+		<Designation>Ык9.255.556</Designation>
+		<Litera>A</Litera>
+		<Quantity>3</Quantity>
+		<Mass>2g</Mass>
+	</Details>
+
+	<Details name ="Болт">
+		<Format>A3</Format>
+		<Designation>Ык7.777.766</Designation>
+		<Litera>B</Litera>
+		<Quantity>5</Quantity>
+		<Mass>5g</Mass>
+	</Details>
+
+	<Details name ="Гайка">
+		<Format>A4</Format>
+		<Designation>Ык4.665.633</Designation>
+		<Litera>A</Litera>
+		<Quantity>10</Quantity>
+		<Mass>1g</Mass>
+	</Details>
+</root>
